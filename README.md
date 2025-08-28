@@ -1,4 +1,5 @@
-Invisibility Cloak with Python + OpenCV 🪄✨
+**Invisibility Cloak with Python + OpenCV 🪄✨**
+
 Ever wondered what it would feel like to disappear like in the movies? This project uses real-time computer vision to create an invisibility cloak effect, allowing you to turn a simple gray towel into a magical cloak!
 
 This project is an excellent introduction to computer vision concepts like real-time video processing, image masking, and color segmentation.
